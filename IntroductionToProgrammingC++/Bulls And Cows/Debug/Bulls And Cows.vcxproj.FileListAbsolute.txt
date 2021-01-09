@@ -1,0 +1,2 @@
+C:\Users\Mishka\Desktop\FMI\FMI-Introduction-to-Programming\IntroductionToProgrammingC++\Bulls And Cows\Debug\Bulls And Cows.exe
+C:\Users\Mishka\Desktop\FMI\FMI-Introduction-to-Programming\IntroductionToProgrammingC++\Bulls And Cows\Debug\Bulls And Cows.pdb

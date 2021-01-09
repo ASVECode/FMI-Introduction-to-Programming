@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bulls and Cows", "Bulls and Cows", "{A09495DA-B2D1-4931-A836-9E058510E17F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bulls And Cows", "Bulls And Cows\Bulls And Cows.vcxproj", "{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}.Debug|x64.ActiveCfg = Debug|x64
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}.Debug|x64.Build.0 = Debug|x64
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}.Debug|x86.Build.0 = Debug|Win32
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}.Release|x64.ActiveCfg = Release|x64
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}.Release|x64.Build.0 = Release|x64
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}.Release|x86.ActiveCfg = Release|Win32
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DC8B4EB5-D7A3-448C-982E-13DCFFCC0858} = {A09495DA-B2D1-4931-A836-9E058510E17F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFFFD1F-385E-4466-9726-1A7A25921893}
+	EndGlobalSection
+EndGlobal
