@@ -1,0 +1,2 @@
+C:\Users\Mishka\Desktop\FMI\FMI-Introduction-to-Programming\TriangleArea\Debug\TriangleArea.exe
+C:\Users\Mishka\Desktop\FMI\FMI-Introduction-to-Programming\TriangleArea\Debug\TriangleArea.pdb
